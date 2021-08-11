@@ -5,7 +5,7 @@ model which will help us to detect the anomalies the society and take the necess
 
 
 
-############################################# Problem statement  ################################################
+############################################# Problem statement ################################################
 
 To Create an AI solution for surveillance using rover or UGV and to implement
 following use cases.
@@ -16,7 +16,7 @@ ambulance and to alert the nearest hospital) for help.
 
 
  
-############################################  PROPOSED SOLUTION  #################################################
+##########################################  PROPOSED SOLUTION ############################################
 The solution proposed here is an UGV (Unmanned Ground Vehicle) based Surveillance
 (Unmanned Ground Vehicle) can be implemented to perform above mention use cases .In
 cases one if UGV detects any mob(illegal) activities at a particular location it will take photos
