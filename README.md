@@ -4,8 +4,7 @@ The UGV based Surveillance solution system is a deep learning-based object detec
 model which will help us to detect the anomalies the society and take the necessary action.
 
 
-
-############################################# Problem statement ################################################
+                                           Problem statement   
 
 To Create an AI solution for surveillance using rover or UGV and to implement
 following use cases.
@@ -16,8 +15,7 @@ ambulance and to alert the nearest hospital) for help.
 
 
  
-##########################################  PROPOSED SOLUTION #############################################
-
+                                            PROPOSED SOLUTION 
 
 The solution proposed here is an UGV (Unmanned Ground Vehicle) based Surveillance
 (Unmanned Ground Vehicle) can be implemented to perform above mention use cases .In
@@ -30,7 +28,8 @@ will take emergency action (call ambulance and alert the nearest hospital )for e
 help.
 
 
-####################################### DEMO VIDEO ##############################################
+                                           DEMO VIDEO
+                                           
 link:https://drive.google.com/file/d/1ovg6bdmhKIDf-KZDvEBkAB4vxR_Bz_X9/view?usp=drivesdk
 
 
